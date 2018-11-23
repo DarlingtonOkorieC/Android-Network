@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AndroidNetwork</string>
+    <string name="email">email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="phone">Phone</string>
+    <string name="register">register</string>
+
+    <string-array name="Gender">
+        <item name ="select_gender">Select gender</item>
+        <item name ="male">Male</item>
+        <item name ="female">Female</item>
+    </string-array>
+</resources>
